@@ -6,13 +6,13 @@
 </h1>
 
 
-[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https:https://github.com/Arjunkrishnaak/New-projectstargazers)
-[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/Arjunkrishnaak/New-projectEvaMaria/fork)
+[![Stars](https://img.shields.io/github/stars/Arjunkrishnaak/New-project?style=flat-square&color=yellow)](https:https://github.com/Arjunkrishnaak/New-projectstargazers)
+[![Forks](https://img.shields.io/github/forks/Arjunkrishnaak/New-project?style=flat-square&color=orange)](https://github.com/Arjunkrishnaak/New-projectEvaMaria/fork)
 [![Size](https://img.shields.io/github/repo-size/Arjunkrishnaak/New-project?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Arjunkrishnaak/New-project)   
 [![Contributors](https://img.shields.io/github/contributors/https://Arjunkrishnaak/New-project?style=flat-square&color=green)](https://github.com/Arjunkrishnaak/New-project/graphs/contributors)
-[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
-[![Sparkline](https://stars.medv.io/https:/Arjunkrishnaak/New-project.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/Arjunkrishnaak/New-project/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/https:/Arjunkrishnaak/New-project.svg)](https://stars.medv.io/Arjunkrishnaak/New-project)
 
 
 ## Features
@@ -66,7 +66,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/EvamariaTG/evamaria
+git clone https://github.com/Arjunkrishnaak/New-project
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
